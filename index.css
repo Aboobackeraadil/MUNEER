@@ -1,0 +1,42 @@
+/* Reset Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: ivory;
+}
+
+/* Main Styles */
+.NAME {
+    background-color: #dbc9c9;
+    text-align: center;
+}
+
+header img {
+    max-width: 100%;
+}
+
+main {
+    padding: 50px;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#contact {
+    background-color: #f7f7f7;
+    padding: 50px;
+}
+
+#contact h2 {
+    margin-bottom: 20
